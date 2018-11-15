@@ -5,3 +5,4 @@ This code base is based on an interview coding challenge. The challenge included
 * Write an algorithm to detect fraudsters
 
 # Data 
+The original data can be found in the data folder. This folder also contains another README.md file, which explains the database schemata which are used. 
