@@ -9,4 +9,4 @@ The original data can be found in the data folder. This folder also contains ano
 Feel free to code your own solution to this nice data problem. 
 
 # Run
-In order to run my solution to this coding challenge. Set up a postgreSQL database and change the database parameters in the settings.py file in the config folder according to your needs. Then sinply execute the main.py file. 
+In order to run my solution to this coding challenge. Set up a postgreSQL database and change the database parameters in the settings.py file in the config folder according to your needs. Then simply execute the main.py file. 
